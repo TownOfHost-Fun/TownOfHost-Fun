@@ -1,4 +1,4 @@
-# [TownOfHost-Fun](https://github.com/ToritenKabosu/TownOfHost-Fun)
+# [TownOfHost-Funはこちら](https://github.com/ToritenKabosu/TownOfHost-Fun)
 ![TownOfHost_Fun_Icon](https://github.com/user-attachments/assets/14b74301-3116-4886-8b4a-838920e9e49a/)
 <br>
 <div align="center">
