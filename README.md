@@ -1,6 +1,6 @@
-> ⚠️ **このリポジトリはREADME.mdのみを置くためのリポジトリです。MOD本体は[こちら](https://github.com/ToritenKabosu/TownOfHost-Fun)。**
-> ⚠️ **This repository is for README.md only. The mod itself is [here](https://github.com/ToritenKabosu/TownOfHost-Fun).**
-> ⚠️ **此仓库仅用于存放README.md。MOD本体请点击[这里](https://github.com/ToritenKabosu/TownOfHost-Fun)。**
+> ⚠️ **このリポジトリはREADME.mdのみを置くためのリポジトリです。MOD本体は[こちら](https://github.com/ToritenKabosu/TownOfHost-Fun)。**<br>
+> ⚠️ **This repository is for README.md only. The mod itself is [here](https://github.com/ToritenKabosu/TownOfHost-Fun).**<br>
+> ⚠️ **此仓库仅用于存放README.md。MOD本体请点击[这里](https://github.com/ToritenKabosu/TownOfHost-Fun)。**<br>
 
 ---
 
@@ -14,9 +14,6 @@ Portions of the materials contained herein are property of Innersloth LLC.<br>
 </div>
 
 ---
-
-## 目次 / Table of Contents / 目录
-
 - [日本語](#日本語)
   - [TOHFについて](#tohfについて)
   - [禁止・注意事項](#禁止注意事項)
